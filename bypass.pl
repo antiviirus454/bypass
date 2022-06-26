@@ -8,8 +8,6 @@ $ARGC=@ARGV;
 if ($ARGC !=3) {
  printf "To initiate a UDP Flood\n";
  printf "perl $0 ip port time\n";
- printf "Coded by AnonyBlackHD";
- printf "Spoofer By AnonyBlackHD";
  exit(1);
 }
 
